@@ -1,3 +1,4 @@
+//Written By member NartGashi for Space Apps Challenge 2019 project SpaceMan. Date Of Creation 20/10/2019
 #include <SoftwareSerial.h>
 #include <SPI.h>
 #define LOG_PERIOD 5000 //Logging period in milliseconds, recommended value 15000-60000.
