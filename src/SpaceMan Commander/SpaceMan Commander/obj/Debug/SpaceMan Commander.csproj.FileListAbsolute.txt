@@ -1,0 +1,59 @@
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\SpaceMan Commander.exe.config
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\SpaceMan Commander.exe
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\SpaceMan Commander.pdb
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\obj\Debug\SpaceMan Commander.csprojAssemblyReference.cache
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\obj\Debug\SpaceMan_Commander.Main.resources
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\obj\Debug\SpaceMan_Commander.Properties.Resources.resources
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\obj\Debug\SpaceMan Commander.csproj.GenerateResource.cache
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\obj\Debug\SpaceMan Commander.csproj.CoreCompileInputs.cache
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\obj\Debug\SpaceMan Commander.exe
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\obj\Debug\SpaceMan Commander.pdb
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Api.Gax.dll
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Apis.Auth.dll
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Apis.Core.dll
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Apis.dll
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Cloud.Vision.V1.dll
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.LongRunning.dll
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Protobuf.dll
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Grpc.Auth.dll
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Grpc.Core.Api.dll
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Grpc.Core.dll
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\System.Interactive.Async.dll
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Api.Gax.pdb
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Api.Gax.xml
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Apis.pdb
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Apis.xml
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Apis.Auth.xml
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Apis.Core.pdb
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Apis.Core.xml
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Cloud.Vision.V1.pdb
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Cloud.Vision.V1.xml
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.LongRunning.pdb
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.LongRunning.xml
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Protobuf.pdb
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Google.Protobuf.xml
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Grpc.Auth.pdb
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Grpc.Auth.xml
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Grpc.Core.pdb
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Grpc.Core.xml
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Grpc.Core.Api.xml
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\bin\Debug\System.Interactive.Async.xml
+C:\Users\LinuxLover-PC\Desktop\SpaceManAdminPanel\SpaceMan Commander\SpaceMan Commander\obj\Debug\SpaceMan Commander.csproj.CopyComplete
