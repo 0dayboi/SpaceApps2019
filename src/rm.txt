@@ -1,0 +1,1 @@
+The Admin panel folder consists of the code created for the commanding admin panel of the robot
